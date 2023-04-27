@@ -1,0 +1,23 @@
+* {
+    width: fit-content;
+}
+
+.mainDiv {
+    gap: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.alert {
+    border: 1px solid black;
+    
+    padding: 2px;
+    background-color: green;
+    color:yellow;
+}
+
+
+.input {
+    width: 22rem;
+}
